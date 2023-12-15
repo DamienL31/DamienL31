@@ -7,6 +7,7 @@ A ce jour, j'ai repris mes études pour obtenir un Master Chef de Projet Data & 
 Je travaille actuellement au sein de l'entreprise SPIE CityNetworks en tant qu'analyste de données, mes missions principales sont : 
 
 - Gestion du flux de données,
+- Administration base de données,
 - ETL, 
 - Creation de dashboard, actualisation et interprétation des données,
 - Création d'un BOT qui puisse répondre à des appels d'offres,
@@ -22,6 +23,7 @@ Alternant au sein de l'IA School, j'acquiert les compétences suivantes :
 
 ### Projets en cours 
 [Projet RSHINY](https://github.com/DamienL31/RshineApp)
+[Projet SQL](https://view.genial.ly/65607ac013dc120011ad03e1/presentation-presentation-projet-de-recherches)
 
 
 <!--
