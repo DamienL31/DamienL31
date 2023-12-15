@@ -2,7 +2,7 @@
 
 Bonjour je m'appelle Damien, actuellement en reconversation professionnelle j'ai travaillé pendant 5 ans en tant qu'Analyste financier. 
 A ce jour, j'ai repris mes études pour obtenir un Master Chef de Projet Data & IA en Alternance afin de pouvoir allier mes connaissances financières à l'analyse de données. 
-Pour toute demande ou projet, vous pouvez me contacter : damienlauger34@gmail.com ou sur (linkedin)[https://www.linkedin.com/in/damien-lauger-8aa64a151/]
+Pour toute demande ou projet, vous pouvez me contacter : damienlauger34@gmail.com ou sur (linkedin)[https://www.linkedin.com/in/damien-lauger-8aa64a151]
 
 ### Entreprise
 Je travaille actuellement au sein de l'entreprise SPIE CityNetworks en tant qu'analyste de données, mes missions principales sont : 
