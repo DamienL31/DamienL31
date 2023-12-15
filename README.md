@@ -20,6 +20,9 @@ Alternant au sein de l'IA School, j'acquiert les compétences suivantes :
 - Power BI,
 - Datathon + Présentation de projet 
 
+### Projets en cours 
+[Projet RSHINY](https://github.com/DamienL31/RshineApp)
+
 
 <!--
 **DamienL31/DamienL31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
