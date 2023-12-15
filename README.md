@@ -2,6 +2,7 @@
 
 Bonjour je m'appelle Damien, actuellement en reconversation professionnelle j'ai travaillé pendant 5 ans en tant qu'Analyste financier. 
 A ce jour, j'ai repris mes études pour obtenir un Master Chef de Projet Data & IA en Alternance afin de pouvoir allier mes connaissances financières à l'analyse de données. 
+Pour toute demande ou projet, vous pouvez me contacter : damienlauger34@gmail.com ou sur ![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.m.wikipedia.org%2Fwiki%2FFichier%3ALinkedIn_icon.svg&psig=AOvVaw1EwX4vCpLA3_A9qCueKzJY&ust=1702739543377000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCNi04p_dkYMDFQAAAAAdAAAAABAD) [https://www.linkedin.com/in/damien-lauger-8aa64a151/]
 
 ### Entreprise
 Je travaille actuellement au sein de l'entreprise SPIE CityNetworks en tant qu'analyste de données, mes missions principales sont : 
@@ -23,6 +24,8 @@ Alternant au sein de l'IA School, j'acquiert les compétences suivantes :
 
 ### Projets en cours 
 [Projet RSHINY](https://github.com/DamienL31/RshineApp)
+
+
 [Projet SQL](https://view.genial.ly/65607ac013dc120011ad03e1/presentation-presentation-projet-de-recherches)
 
 
