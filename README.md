@@ -23,10 +23,10 @@ Alternant au sein de l'IA School, j'acquiert les compétences suivantes :
 - Datathon + Présentation de projet 
 
 ### Projets en cours 
-[Projet RSHINY](https://github.com/DamienL31/RshineApp)
+[Projet RSHINY](https://github.com/DamienL31/RshineApp) -> Développement d'une application pour l'analyse des données criminelles à Los Angeles de 2020 à ce jour ainsi que des visualisations  
 
 
-[Projet SQL](https://view.genial.ly/65607ac013dc120011ad03e1/presentation-presentation-projet-de-recherches)
+[Projet SQL](https://view.genial.ly/65607ac013dc120011ad03e1/presentation-presentation-projet-de-recherches) -> Projet SQL pour apprendre SQL à un novice + utilisation de la fonction Trigger. 
 
 
 <!--
