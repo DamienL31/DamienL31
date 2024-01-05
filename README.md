@@ -22,7 +22,7 @@ Alternant au sein de l'IA School, j'acquiert les compétences suivantes :
 - Power BI,
 - Datathon + Présentation de projet 
 
-### Projets en cours 
+### Projets 
 [Projet RSHINY](https://github.com/DamienL31/RshineApp) -> Développement d'une application pour l'analyse des données criminelles à Los Angeles de 2020 à ce jour ainsi que des visualisations  
 
 
