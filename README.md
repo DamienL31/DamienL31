@@ -28,6 +28,7 @@ Alternant au sein de l'IA School, j'acquiert les compétences suivantes :
 
 [Projet SQL](https://view.genial.ly/65607ac013dc120011ad03e1/presentation-presentation-projet-de-recherches) -> Projet SQL pour apprendre SQL à un novice + utilisation de la fonction Trigger. 
 
+[Projet HTML/CSS] (https://benguir.github.io/Website-HTML-Festival) -> Projet HTML/CSS pour la création d'une application web. Projet collaboratif, pour la création d'un site web pour promouvoir un festival fictif. 
 
 <!--
 **DamienL31/DamienL31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
