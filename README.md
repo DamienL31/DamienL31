@@ -34,7 +34,7 @@ Cliquez sur les onglets en bleu pour accéder aux différents projets
 
 [Projet Shiny Dashboard](https://github.com/DamienL31/Dashboard-RShinny-ShopperSentiments.git) -> Projet en R collaboratif, création d'une application intéractive pour l'analyse des avis d'une plateforme mondiale de vente de vêtements en ligne. 
 
-[2nd Projet Shiny Dashboard] (https://github.com/DamienL31/ProjetR.git) -> Analyse des données Spotify comprenant des informations sur les KPI's, des graphiques interactifs et un tableau interactifs des données.
+[2nd Projet Shiny Dashboard](https://github.com/DamienL31/ProjetR.git) -> Analyse des données Spotify comprenant des informations sur les KPI's, des graphiques interactifs et un tableau interactifs des données.
 
 <!--
 **DamienL31/DamienL31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
