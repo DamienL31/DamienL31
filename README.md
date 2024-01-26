@@ -14,7 +14,7 @@ Je travaille actuellement au sein de l'entreprise SPIE CityNetworks en tant qu'a
 - Création d'un BOT qui puisse répondre à des appels d'offres,
 
 
-### Ecole 
+### Ecole &star; 
 Alternant au sein de l'IA School, j'acquiert les compétences suivantes : 
 
 - Analyse de données sous R,
