@@ -19,7 +19,7 @@ Alternant au sein de l'IA School, j'acquiert les compétences suivantes :
 - Power BI,
 - Datathon + Présentation de projet
 - Python (EDA, Web Scrapping, Web application)
-- Data Science (Scikit-learn, KNN, XGBoost, Random Forest pour la classification et prédiction et YOLO pour la détection objet)
+- Data Science (Scikit-learn, KNN, XGBoost pour la classification & prédiction + YOLO pour la détection objet)
   
 ### Projets 2024 💼 
 Cliquez sur les onglets en bleu pour accéder aux différents projets
