@@ -41,6 +41,10 @@ Cliquez sur les onglets en bleu pour accéder aux différents projets
 Dépôt de plusieurs projets prochainements dont : 
 
 [Football Classification Projet] 
+
 [Computer vision projet identification d'objets] 
+
 [Modèle de classification de plantes avec dataset Kaggle]
-et d'autres 
+
+[Scoring Bancaire avec dataset Kaggle]
+ 
