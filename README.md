@@ -9,7 +9,7 @@ Je travaille actuellement au sein de l'entreprise SPIE CityNetworks en tant qu'a
 - Administration base de données,
 - ETL, 
 - Creation de dashboards, actualisation et interprétation des données,
-- Création d'un BOT qui puisse répondre à des appels d'offres,
+- Création d'une IA capable d'analyser un appel d'offres afin d'aider à la prise de décision.
 
 ### Ecole 🎓 
 Alternant au sein de l'IA School, j'acquiert les compétences suivantes : 
