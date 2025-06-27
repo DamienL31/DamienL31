@@ -12,7 +12,7 @@ Je travaille actuellement au sein de l'entreprise SPIE CityNetworks en tant qu'a
 - Création d'une IA capable d'analyser un appel d'offres afin d'aider à la prise de décision.
 
 ### Ecole 🎓 
-Alternant au sein de l'IA School, j'acquiert les compétences suivantes : 
+Alternant au sein de Nexa Digital School, j'acquiert les compétences suivantes : 
 
 - Analyse de données + Dashboard sous R et Rshiny
 - SQL + MongoDB,
@@ -42,7 +42,7 @@ Dépôt de plusieurs projets prochainements dont :
 
 [Football Classification Projet] 
 
-[Computer vision projet identification d'objets] 
+[Computer vision projet identification d'objets](https://github.com/DamienL31/ComputerVision.git) -> Projet de Computer Vision avec analyse et traitement des images, créations de modèle CNN, SVM et application modèle Yolov5.
 
 [Modèle de classification de plantes avec dataset Kaggle]
 
