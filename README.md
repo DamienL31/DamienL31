@@ -44,7 +44,7 @@ Dépôt de plusieurs projets prochainements dont :
 
 [Computer vision projet identification d'objets](https://github.com/DamienL31/ComputerVision.git) -> Projet de Computer Vision avec analyse et traitement des images, créations de modèle CNN, SVM et application modèle Yolov5.
 
-[Modèle de classification de plantes avec dataset Kaggle]
+[Modèle de classification de plantes avec dataset Kaggle](https://github.com/DamienL31/Classification-flowers-CNN) -> Création d'une pipeline complet de deep learning avec la potentialité d'un cas d'usage réel;
 
 [Scoring Bancaire avec dataset Kaggle]
  
